@@ -1,3 +1,14 @@
+
+
+
+https://github.com/user-attachments/assets/fffde5c1-fb7d-4541-b967-239ed64438d1
+
+
+
+
+
+
+
 The provided Java code outlines a game named "LightEmAll," a grid-based puzzle game. Here's a breakdown of the key components and functionality:
 
 ### Game Overview:
